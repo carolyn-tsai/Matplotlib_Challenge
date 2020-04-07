@@ -1,6 +1,6 @@
 # Matplotlib_Challenge
 
-Matplotlib Homework
+Matplotlib Visualizations
 
 For this assignment, I was tasked with analyzing the data collected on various drug treatments for skin cancer on mice. 
 
