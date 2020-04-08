@@ -1,4 +1,4 @@
-# Matplotlib_Challenge
+# Matplotlib Challenge
 
 Matplotlib Visualizations
 
